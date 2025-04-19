@@ -4145,6 +4145,15 @@ export const dictionaryResources: DictionaryResource[] = [
   // },
 ]
 
+
+{
+    "id": "流利说自我练习",
+    "name": "流利说",
+    "description": "英语",
+    "category": "流利说",
+    "url": "2025.4.19",
+    "length": "en"
+}
 export const dictionaries: Dictionary[] = dictionaryResources.map((resource) => ({
   ...resource,
   chapterCount: calcChapterCount(resource.length),
