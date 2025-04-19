@@ -1,0 +1,35 @@
+[
+  {
+    "json": "["
+  },
+  {
+    "json": "{"
+  },
+  {
+    "json": "word\": \"soft\","
+  },
+  {
+    "json": "pronunciation_uk\": \"/sɒft/\","
+  },
+  {
+    "json": "pronunciation_us\": \"/sɔːft/\","
+  },
+  {
+    "json": "meaning_adj\": \"柔软的"
+  },
+  {
+    "json": "meaning_n\": \"柔软（部分）"
+  },
+  {
+    "json": "meaning_adv\": \"柔软地,轻轻地"
+  },
+  {
+    "json": "meaning_int\": \"<古>嘘!别作声!等一等!别忙!"
+  },
+  {
+    "json": "}"
+  },
+  {
+    "json": "]"
+  }
+]
